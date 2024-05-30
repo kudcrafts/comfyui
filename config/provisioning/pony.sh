@@ -21,6 +21,7 @@ NODES=(
 
 CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/533326"
+    "https://civitai.com/api/download/models/403131?type=Model&format=SafeTensor&size=full&fp=fp16"
 )
 
 LORA_MODELS=(
