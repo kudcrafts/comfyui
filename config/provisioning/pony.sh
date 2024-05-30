@@ -20,8 +20,8 @@ NODES=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/533326"
-    "https://civitai.com/api/download/models/403131?type=Model&format=SafeTensor&size=full&fp=fp16"
+    "https://civitai.com/api/download/models/533326?token=80d77ec5423b298d563c5c8fb0e75ce4"
+    "https://civitai.com/api/download/models/403131?type=Model&format=SafeTensor&size=full&fp=fp16?token=80d77ec5423b298d563c5c8fb0e75ce4"
 )
 
 LORA_MODELS=(
