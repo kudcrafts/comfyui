@@ -1,7 +1,9 @@
 curl -L -H "Content-Type: application/json" -H "Authorization: Bearer 80d77ec5423b298d563c5c8fb0e75ce4" -o tPonynai3_v51WeightOptimized.safetensors https://civitai.com/api/download/models/533326?type=Model&format=SafeTensor&size=full&fp=bf16
 curl -L -H "Content-Type: application/json" -H "Authorization: Bearer 80d77ec5423b298d563c5c8fb0e75ce4" -o animagineXLV31_v31.safetensors https://civitai.com/api/download/models/403131?type=Model&format=SafeTensor&size=full&fp=fp16
+
 curl -L -H "Content-Type: application/json" -H "Authorization: Bearer 80d77ec5423b298d563c5c8fb0e75ce4" -o zPDXLxxx.pt https://civitai.com/api/download/models/380277?type=Model&format=PickleTensor
 curl -L -H "Content-Type: application/json" -H "Authorization: Bearer 80d77ec5423b298d563c5c8fb0e75ce4" -o zPDXLxxx-neg.pt https://civitai.com/api/download/models/380277?type=Negative&format=Other
+
 curl -L -H "Content-Type: application/json" -H "Authorization: Bearer 80d77ec5423b298d563c5c8fb0e75ce4" -o "hoshino_ver2_blue archive_PONY_epoch-000020.safetensors" https://civitai.com/api/download/models/441283
 curl -L -H "Content-Type: application/json" -H "Authorization: Bearer 80d77ec5423b298d563c5c8fb0e75ce4" -o "hoshino-first_ver2_blue archive_PONY_epoch-000020.safetensors" https://civitai.com/api/download/models/441293
 
@@ -24,3 +26,9 @@ curl -L -H "Content-Type: application/json" -H "Authorization: Bearer 80d77ec542
 curl -L -H "Content-Type: application/json" -H "Authorization: Bearer 80d77ec5423b298d563c5c8fb0e75ce4" -o "yukino-yukinoshita-ponyxl-lora-nochekaiser.safetensors" https://civitai.com/api/download/models/396024
 curl -L -H "Content-Type: application/json" -H "Authorization: Bearer 80d77ec5423b298d563c5c8fb0e75ce4" -o "iroha-isshiki-ponyxl-lora-nochekaiser.safetensors" https://civitai.com/api/download/models/395906
 curl -L -H "Content-Type: application/json" -H "Authorization: Bearer 80d77ec5423b298d563c5c8fb0e75ce4" -o "yui-yuigahama-ponyxl-lora-nochekaiser.safetensors" https://civitai.com/api/download/models/396049
+
+curl -L -H "Content-Type: application/json" -H "Authorization: Bearer 80d77ec5423b298d563c5c8fb0e75ce4" -o "izumi hiyori_hamidashi creative_PONY_last.safetensors" https://civitai.com/api/download/models/539481
+curl -L -H "Content-Type: application/json" -H "Authorization: Bearer 80d77ec5423b298d563c5c8fb0e75ce4" -o "nishiki asumi_hamidashi creative_PONY_last.safetensors" https://civitai.com/api/download/models/541835
+
+curl -L -H "Content-Type: application/json" -H "Authorization: Bearer 80d77ec5423b298d563c5c8fb0e75ce4" -o "momoi_blue archive_PONY_last.safetensors" https://civitai.com/api/download/models/522388
+curl -L -H "Content-Type: application/json" -H "Authorization: Bearer 80d77ec5423b298d563c5c8fb0e75ce4" -o "midori_blue archive_PONY_last.safetensors" https://civitai.com/api/download/models/522383
