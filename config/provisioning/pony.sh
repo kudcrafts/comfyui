@@ -17,6 +17,9 @@ NODES=(
     "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
     "https://github.com/space-nuko/ComfyUI-OpenPose-Editor"
     "https://github.com/chrisgoringe/cg-use-everywhere"
+    "https://github.com/storyicon/comfyui_segment_anything"
+    "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
+    "https://github.com/Fannovel16/comfyui_controlnet_aux"
 )
 
 CHECKPOINT_MODELS=(
